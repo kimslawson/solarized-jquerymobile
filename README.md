@@ -35,7 +35,7 @@ For access to both the light and dark side of the force, add the following line 
  
 ## Theme swatches
 
-The following light swatches are available in the `solarized` variant. These display the color listed on the light background, #eee8d5 for headers and #fdf6e3 for content.
+The following light swatches are available in the `solarized` variant. These display content/text in grey (#657b83) and accents in the colors listed below. The background color is #eee8d5 for headers and #fdf6e3 for content.
 
 * A &mdash; Yellow (#b58900)
 * B &mdash; Orange (#cb4b16)
@@ -45,9 +45,9 @@ The following light swatches are available in the `solarized` variant. These dis
 * F &mdash; Blue (#268bd2)
 * G &mdash; Cyan (#2aa198)
 * H &mdash; Green (#859900)
-* I &mdash; Grey (monochromatic: #586e75)
+* I &mdash; Grey (monochromatic: #657b83)
 
-In addition to the swatches listed above, the `solarized-unified` variant includes these dark swatches. These show the following colors on a dark background, using #073642 for headers and #002b36 for content.
+In addition to the swatches listed above, the `solarized-unified` variant includes these dark swatches. These show content/text in grey (#839496) and accents in the following colors. The background color is #073642 for headers and #002b36 for content.
 
 * J &mdash; Yellow (#b58900)
 * K &mdash; Orange (#cb4b16)
@@ -57,7 +57,7 @@ In addition to the swatches listed above, the `solarized-unified` variant includ
 * O &mdash; Blue (#268bd2)
 * P &mdash; Cyan (#2aa198)
 * Q &mdash; Green (#859900)
-* R &mdash; Grey (monochromatic: #586e75)
+* R &mdash; Grey (monochromatic: #839496)
 
 ## Troubleshooting
 If, after installation, you have issues with the theme, try the following:
