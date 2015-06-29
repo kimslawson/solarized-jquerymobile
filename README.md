@@ -72,4 +72,5 @@ Please [report any issues](https://github.com/kimslawson/solarized-jquerymobile/
 
 # Contact
 
-- [Kim Slawson](http://slawson.org/)
+- [Kim Slawson](http://slawson.org/) — personal site
+- [@OxC0FFEE](https://twitter.com/OxC0FFEE) —Twitter
